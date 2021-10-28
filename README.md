@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **[React](https://github.com/MisbahMuib)**
   
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://misbahmuib-web.netlify.app/)**
 
