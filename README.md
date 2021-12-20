@@ -5,6 +5,8 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[React](https://github.com/MisbahMuib)**
+
+- 🔭 I’m currently work at **[intigsol Ltd](https://http://intigsol.com/)**
   
 - 🌱 I’m currently learning **Backend Development**
 
