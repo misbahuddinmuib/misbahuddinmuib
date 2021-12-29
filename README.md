@@ -10,7 +10,7 @@
   
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://misbahmuib-web.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://muib.netlify.app/)**
 
 - 📫 How to reach me **misbahuddinmuib@gmail.com**
 
