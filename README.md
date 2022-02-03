@@ -1,4 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Muib</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&width=433&height=75&lines=I'm+Misbah+Uddin+Muib;Software+Developer;%40MisbahMuib)](https://git.io/typing-svg)
 <h3 align="center">I'm a passionate Web Developer</h3>
 
 
