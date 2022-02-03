@@ -1,5 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Muib</h1>
-https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I%27m+Misbah+Uddin+Muib;Software+Developer;%40MisbahMuib
+<p align='center'>
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I%27m+Misbah+Uddin+Muib;Software+Developer;%40MisbahMuib">
+</p>
 <h3 align="center">I'm a passionate Web Developer</h3>
 
 
