@@ -68,7 +68,7 @@
 <a href="https://twitter.com/misbahuddinmuib" target="_blank">
   <img align="left" alt="Misbah Muib  | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/misbahmuib_/ target="_blank">
+<a href="https://www.instagram.com/misbahmuib_/" target="_blank">
   <img align="left" alt="Misbah Muib | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
 <a href="mailto:misbahuddinmuib@gmail.com" >
@@ -81,20 +81,6 @@
 <img align="left" width="30px" src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-coding-online-learning-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"/>
 </a>
 <p>
-
-
-## Connect with me:
-<p align="left">
-
-
-<a href = "https://www.linkedin.com/in/misbahuddinmuib/"><img width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/misbahuddinmuib"><img width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/misbahmuib_/"><img width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCwtS21LMX_QuZbntJ_97fjA"><img width="30px" src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
-
-
-</p>
 
 ### Views and Followers
 <a href="https://github.com/MisbahMuib/github-profile-views-counter">
