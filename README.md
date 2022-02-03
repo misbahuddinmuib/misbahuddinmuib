@@ -58,6 +58,30 @@
 <br/>
 <br/>
 
+<div align="left">
+  <h3><b>Can Connect With Me On</b></h3>
+  </div>
+<p align="center">
+<a href="https://www.linkedin.com/in/misbahuddinmuib/" target="_blank">
+  <img align="left" alt="Misbah Muib | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://twitter.com/misbahuddinmuib" target="_blank">
+  <img align="left" alt="Misbah Muib  | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/misbahmuib_/ target="_blank">
+  <img align="left" alt="Misbah Muib | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+</a> &nbsp;&nbsp;
+<a href="mailto:misbahuddinmuib@gmail.com" >
+  <img align="left" alt="Misbah Muib  | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.facebook.com/misbahuddin.muib/" target="_blank">
+    <img align="left" alt="Misbah Muib  | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+</a> &nbsp;&nbsp;
+<a href="https://muib.netlify.app/" target="_blank">
+<img align="left" width="30px" src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-coding-online-learning-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"/>
+</a>
+<p>
+
 
 ## Connect with me:
 <p align="left">
