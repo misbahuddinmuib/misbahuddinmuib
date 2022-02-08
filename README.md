@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **[React](https://github.com/MisbahMuib)**
 
-- 🔭 I’m currently Work as a Web Developer at **[intigsol Ltd](https://intigsol.com/)**
+- 🔭 I’m currently Work as a Software Developer at **[intigsol Ltd](https://intigsol.com/)**
   
 - 🌱 I’m currently learning **Backend Development**
 
