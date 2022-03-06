@@ -7,11 +7,11 @@
 
   ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[React](https://github.com/MisbahMuib)**
+- 🔭 I’m currently working on **[React JS](https://github.com/MisbahMuib)**
 
 - 🔭 I’m currently Work as a Software Developer at **[intigsol Ltd](https://intigsol.com/)**
   
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://muib.netlify.app/)**
 
