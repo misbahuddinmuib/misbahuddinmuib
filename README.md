@@ -7,7 +7,7 @@
 
   ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[React JS](https://github.com/MisbahMuib)**
+- 🔭 I’m currently working on **[React JS](https://github.com/misbahuddinmuib)**
 
 - 🔭 I’m currently Work as a Software Developer at **[Intigsol Ltd](https://intigsol.com/)**
   
@@ -41,19 +41,19 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/MisbahMuib/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Misbah Uddin Muib's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MisbahMuib&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/misbahuddinmuib/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Misbah Uddin Muib's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=misbahuddinmuib&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/MisbahMuib/github-readme-stats"><img alt="Misbah Uddin Muib's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MisbahMuib&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/MisbahMuib/github-readme-stats"><img alt="Misbah Uddin Muib's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisbahMuib&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/misbahuddinmuib/github-readme-stats"><img alt="Misbah Uddin Muib's Github Stats" src="https://github-readme-stats.vercel.app/api?username=misbahuddinmuib&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/misbahuddinmuib/github-readme-stats"><img alt="Misbah Uddin Muib's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misbahuddinmuib&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <br/>
-  <a href="https://github.com/MisbahMuib/github-readme-activity-graph"><img alt="Misbah Uddin Muib's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MisbahMuib&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/misbahuddinmuib/github-readme-activity-graph"><img alt="Misbah Uddin Muib's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=misbahuddinmuib&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -83,7 +83,7 @@
 <p>
 
 ### Views and Followers
-<a href="https://github.com/MisbahMuib/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=MisbahMuib">
+<a href="https://github.com/misbahuddimuib/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=misbahuddinmuib">
 </a>
-<a href="https://github.com/MisbahMuib?tab=followers"><img src="https://img.shields.io/github/followers/MisbahMuib?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/misbahuddinmuib?tab=followers"><img src="https://img.shields.io/github/followers/misbahuddinmuib?label=Followers&style=social" alt="GitHub Badge"></a>
