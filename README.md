@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **[React JS](https://github.com/misbahuddinmuib)**
 
-- 🔭 I’m currently Work as a Software Developer at **[Intigsol Ltd](https://intigsol.com/)**
+- 🔭 I currently Work as an ERP and Junior Project Coordinator at **[Deshbandhu Group](https://www.dbg.com.bd/)**
   
 - 🌱 I’m currently learning **MERN Stack**
 
